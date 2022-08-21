@@ -1,0 +1,25 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+
+
+
+```{r}
+# Cleaning and Analysis
+library(tidyverse)
+library(tidytext)
+library(fpp3)
+library(magrittr)
+library(scales)
+
+# Data Viz 
+library(plotly)
+
+# Markdown
+
+library(kableExtra)
+```
+
+
